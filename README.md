@@ -1,4 +1,4 @@
-#Face recognition
+# Face recognition
 
 It 's just an example. Follow this article: https://docs.microsoft.com/en-us/archive/msdn-magazine/2019/november/artificially-intelligent-exploring-face-detection-and-recognition
 
